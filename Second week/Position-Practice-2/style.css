@@ -28,6 +28,11 @@
     left: 25%;
 
 }
+#information-text {
+    position: absolute;
+    left: 20px;
+    top: -20px;
+}
 #button-border{
     border: 2px solid black;
     width: 2.5%;
