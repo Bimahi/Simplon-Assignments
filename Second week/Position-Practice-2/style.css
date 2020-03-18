@@ -1,0 +1,43 @@
+.text {
+   color: blue;
+}
+#square {
+    border: 6px solid black;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    right: 1%;
+    top: 3%
+}
+#title {
+    border: 5px solid black;
+    height: 100px;
+    position: static;
+}
+#title-text {
+    position: absolute;
+    top: 15px;
+    left: 20px;
+}
+#information {
+    border: 2px solid black;
+    width: 50%;
+    height: 500px;
+    position: relative;
+    top: 3px;
+    left: 25%;
+
+}
+#button-border{
+    border: 2px solid black;
+    width: 2.5%;
+    height: 50px;
+    position: relative;
+    left: 70%;
+    top: -75px
+}
+#button-text{
+    position: absolute;
+    top: -11px;
+    left: 15px;
+}
