@@ -1,0 +1,46 @@
+body {
+    color: black;
+}
+.t1 {
+    position: relative;
+    top: -10px;
+    left: 15px;
+}
+.b1 {
+    border: 3px solid black;
+    width: 10%;
+    height: 100px;
+    position: relative;
+    top: -50px;
+}
+.t2 {
+    position: relative;
+    top: -85px;
+    left: 9.8%;
+}
+.b2 {
+    border: 2px solid red;
+    width: 10%;
+    height: 200px;
+    position: relative;
+    top: -125px;
+    left: 8%;
+}
+.t3 {
+    position: relative;
+    top: -200px;
+    left: 15%;
+}
+.b3 {
+    border: 2px solid black;
+    width: 10%;
+    height: 200px;
+    position: relative;
+    top: -300px;
+    left: 25%;
+}
+.t4 {
+    position: relative;
+    top: -500px;
+    left: 27%;
+}
