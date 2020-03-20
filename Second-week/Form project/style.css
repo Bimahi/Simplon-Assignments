@@ -1,0 +1,45 @@
+body {
+    background-color: olive;
+}
+.section {
+    position: relative;
+    left: 50%;
+}
+#first {
+    position: relative;
+  }
+#first-text {
+    position: absolute;
+    top: -.01%;
+    left: 150px;    
+}
+#second {
+    position: relative;
+}
+#second-text {
+    position: absolute;
+    top: -.01%;
+    left: 150px;
+}
+#third {
+    position: relative;
+}
+#third-text{
+    position: absolute;
+    top: -.01%;
+    left: 150px;
+}
+#fourth {
+    position: relative;
+
+}
+#fourth-text{
+    position: absolute;
+}
+#fifth {
+    position: relative;
+
+}
+#fifth-text{
+    position: absolute;
+}
