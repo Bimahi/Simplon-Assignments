@@ -1,0 +1,63 @@
+#bg {
+    background-image: url(cat.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    position: relative;
+    top: 70px;;
+}
+.link {
+    float: right;
+    position: relative;
+}
+ul {
+    float: right;
+    list-style-type: none;
+    margin: 20px;
+    padding: 20px;
+    position: relative;
+    top: -50px;
+}
+li {
+    float: right;
+    margin: 20px;
+
+}
+h2 {
+    color: orange;
+    border: 3px solid green;
+    background-color: green;
+    text-align: left;
+    margin-left: 5%;
+    width: 90%;
+}
+#Japon {
+    margin-top: 200px;
+}
+p {
+    text-align: justify;
+}
+#p1 {
+    float: right;
+}
+#p2, #p3 {
+    float: left;
+}
+#i1 {
+    float: left;
+    height: 200px;
+    width: auto;
+}
+#i2, #i3 {
+    float: right;
+}
+#i2 {
+    height: 200px;
+    width: auto;
+}
+#i3 {
+    height: 200px;
+    width: auto;
+}
