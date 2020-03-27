@@ -1,0 +1,16 @@
+.container {
+    border: 4px solid black;
+    display: flex;
+}
+.container div {
+    padding: 30px;
+}
+.container .block1 {
+    background: red;
+}
+.container .block2 {
+    background: yellow;
+}
+.container .block3 {
+    background: green;
+}
