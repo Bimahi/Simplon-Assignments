@@ -1,0 +1,8 @@
+.mymenu {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.picture {
+    background: url(https://cdn.pixabay.com/photo/2020/03/28/15/20/cat-4977436_960_720.jpg) center no-repeat;
+    background-size: cover; 
+}

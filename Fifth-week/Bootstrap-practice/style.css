@@ -1,0 +1,12 @@
+.customline {
+    margin-bottom: 1rem;
+    background-color: lawngreen;
+    min-height: 5rem;
+}
+.column-l {
+    background-color: red;
+}
+img {
+    height: auto;
+    width: 100%;
+}
